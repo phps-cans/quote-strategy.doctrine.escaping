@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PSCS\\Doctrine\\ORM\\Mapping": "src/"
+            "PSCS\\Doctrine\\ORM\\Mapping\\": "src/"
         }
     },
     "minimum-stability": "dev",
