@@ -7,7 +7,7 @@ is you want to use protected keywords for table or column name you will have to 
 This will break NamingStrategy provide by doctrine and required you to know what words are protected
 in the database you use.
 
-With this implementating of the QuoteStrategy interface you will not have to bother with it.
+With this implementation of the QuoteStrategy interface you will not have to bother with it anymore.
 
 Just add our EscapingQuoteStrategy to Doctrine configuration :
 
